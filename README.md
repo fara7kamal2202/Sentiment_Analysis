@@ -18,4 +18,4 @@ This repository uses tools to perform **sentiment-analysis** of Amazon reviews u
 - Evaluation of different methods and comparison of results. 
 
 ## References
-- https://www.youtube.com/watch?v=QpzMWQvxXWk&t=0s
+- [Youtube Video](https://www.youtube.com/watch?v=QpzMWQvxXWk&t=0s)
